@@ -21,7 +21,8 @@
 
 
 ## Install
-TODO: Install it from the [Chrome Web Store]
+1. Install it from the [Chrome Web Store] - Pending for review
+2. Temp workaround - [install locally](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
 
 ## License
 MIT © [Ashik Nesin](https://nesin.io)

@@ -11,8 +11,6 @@
 	"permissions": [
 		"storage",
 		"https://meet.google.com/*",
-		"webRequest",
-		"webRequestBlocking",
 		"background"
 	],
 	"content_scripts": [

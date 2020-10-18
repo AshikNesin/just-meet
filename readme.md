@@ -9,6 +9,8 @@
 - Auto join the Call
 - Easily Configurable
 
+![](media/annotated.png)
+
 ![Just Meet Demo](media/demo.gif)
 
 ![Prefereces](media/preference.png)

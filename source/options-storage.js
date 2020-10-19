@@ -3,7 +3,7 @@ import OptionsSync from 'webext-options-sync';
 export default new OptionsSync({
 	defaults: {
 		autoMuteOnJoin: true,
-		autoJoinCall:true,
+		autoJoinCall:false,
 		autoTurnOffCamOnJoin: true,
 		debugMode:false
 	},

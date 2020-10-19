@@ -69,7 +69,7 @@
   __webpack_exports__["a"] = new webext_options_sync__WEBPACK_IMPORTED_MODULE_0___default.a({
     defaults: {
       autoMuteOnJoin: true,
-      autoJoinCall: true,
+      autoJoinCall: false,
       autoTurnOffCamOnJoin: true,
       debugMode: false
     },
